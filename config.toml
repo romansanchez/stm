@@ -1,7 +1,17 @@
-baseURL = "http://southerntiremasters.com"
+baseURL = "https://southerntiremasters.com"
 languageCode = "en-us"
 title = "Southern Tire Masters"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
   favicon = ""
