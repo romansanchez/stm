@@ -1,0 +1,4 @@
+baseURL = "http://southerntiremasters.com"
+languageCode = "en-us"
+title = "Southern Tire Masters"
+theme = "ananke"
